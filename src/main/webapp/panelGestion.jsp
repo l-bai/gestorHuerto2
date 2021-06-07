@@ -1,5 +1,5 @@
 <%-- 
-    Author     : Lidia Baixauli de la Villa
+    Author     : Lidia Baixauli 
 --%>
 <%@page import="Entidades.Usuario"%>
 <!--imports-->
